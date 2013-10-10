@@ -8,6 +8,12 @@
 	h1
 	{
 	font-size:45px;
+	color:#2B1492;
+	}
+	
+	h2
+	{
+	color:#2B1492;
 	}
 
 	body 
@@ -22,14 +28,15 @@
 	text-align:center;
 	}
 	
-	.row
+	.padding
 	{
-	 
+		padding:5px;
 	}
 	
 	.container
 	{
 	background-color:#FFFFFF;
+	box-shadow: 10px 10px 5px #243A6D;
 	}
 	
 	#footer
