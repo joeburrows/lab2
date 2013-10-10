@@ -1,0 +1,48 @@
+#sidebar 
+{
+	float: right;
+	width: 350px;
+	padding-left:35px;
+}
+
+	h1
+	{
+	font-size:45px;
+	}
+
+	body 
+	{
+		background-color: #91AEF2;
+	}
+	
+	#motd
+	{
+	font-size:20px;
+	color:red;
+	text-align:center;
+	}
+	
+	.row
+	{
+	 
+	}
+	
+	.container
+	{
+	background-color:#FFFFFF;
+	}
+	
+	#footer
+	{
+	padding-top:10px;
+	}
+	
+	#main
+	{
+	padding:10px;
+	}
+	
+	.center
+	{
+	text-align:center;
+	}
